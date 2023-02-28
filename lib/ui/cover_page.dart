@@ -1,6 +1,6 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flutter/material.dart';
-import 'package:household/ui/register_page.dart';
+import '/ui/register_page.dart';
 import 'login_page.dart';
 
 class CoverPage extends StatelessWidget {

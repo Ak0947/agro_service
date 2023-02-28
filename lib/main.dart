@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:household/ui/cover_page.dart';
-import 'package:household/ui/login_page.dart';
-import 'package:household/ui/password_reset.dart';
-import 'package:household/ui/register_page.dart';
-import 'package:household/widget/bottom_nav_bar.dart';
+import 'ui/cover_page.dart';
+import 'ui/login_page.dart';
+import 'ui/password_reset.dart';
+import 'ui/register_page.dart';
+import 'widget/bottom_nav_bar.dart';
 
 void main(){
   runApp(MaterialApp(

@@ -202,7 +202,7 @@ class _TractorOwnersPageState extends State<TractorOwnersPage> {
     }
 
     // Handle all other cases
-    for (var i = 0; i < (limitTo ?? wordList.length); i++) {
+    for (var i = 0; i < (limitTo ); i++) {
       buffer.write(wordList[i][0]);
     }
     return buffer.toString();
